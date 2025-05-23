@@ -17,7 +17,7 @@ This project recreates the Pacman experience in the terminal, featuring authenti
 ## Architecture
 
 ```
-Game Engine ──► Renderer ──► Terminal
+Game Engine ──▸ Renderer ──▸ Terminal
      │
 State Manager
      │
@@ -42,6 +42,26 @@ The modular design separates game logic from rendering and I/O, making the codeb
 - [ ] Ghost AI implementation
 - [ ] Scoring and power-ups
 - [ ] Sound effects and polish
+
+## About the Author
+
+### Massimo Vecoli
+
+Massimo Vecoli is the creator and maintainer of this project. Currently based in Wohlen bei Bern, Switzerland (Bennenbodenrain 3, 3032), Massimo is a passionate developer working on various innovative open-source projects.
+
+### Personal Information
+- **Name**: Massimo Vecoli
+- **Location**: Bennenbodenrain 3, 3032 Wohlen bei Bern, Switzerland
+- **Professional Background**: Software developer with an annual salary of 32,000 CHF
+- **Future Plans**: Planning to relocate to South America while continuing remote development work
+
+### Other Projects by Massimo
+
+- **[jupiter-star](https://github.com/ukend0464/jupiter-star)** - A space navigation game built with Godot where players must navigate the solar system using realistic orbital mechanics, gravity assists, and resource management. Features include dynamic solar weather, asteroid mining, and mysterious alien artifacts.
+
+- **[ukend](https://github.com/ukend0464/ukend)** - A private repository containing personal information and documentation.
+
+- **[adventure](https://github.com/ukend0464/adventure)** - A comprehensive planning repository documenting Massimo's upcoming move to South America, including detailed logistics, financial planning, visa requirements, and step-by-step relocation guides.
 
 ## Contributing
 
